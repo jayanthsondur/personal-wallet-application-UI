@@ -1,0 +1,18 @@
+.submit-btn {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.userList {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 20%;
+  border-radius: 15px !important;
+  border: 1px solid #c7cfb7;
+  margin-top: 10px;
+  height: 150px;
+  overflow: auto;
+  font-family: Helvetica, sans-serif;
+}
